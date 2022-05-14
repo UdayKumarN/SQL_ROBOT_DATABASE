@@ -1,0 +1,6 @@
+datasources:cb4473fb4f2893c3417a3adb4547b25894072831
+commandlineoptions:9f8598a690c7367accf83ead504756ddd374acc9
+suitesfrom:no-suites-from-option
+file:be33fee151bb0e36542f4538e0c95713325ca992
+--suite Suites.Sql
+--suite Suites.Testcase
