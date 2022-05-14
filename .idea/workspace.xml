@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="04941b12-4f81-4e31-8d2b-4926c9639ecf" name="Changes" comment="commit">
+      <change afterPath="$PROJECT_DIR$/.idea/RobotProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pipfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Results/Customer Calling.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Results/Customer Calling.parquet" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Results/MySQLDB_log-20220318-173655.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Results/MySQLDB_output-20220318-173655.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Results/MySQLDB_report-20220318-173655.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Results/MySQL_log-20220318-173655.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Results/log.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Results/output.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Results/pabot_results/0/output.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Results/pabot_results/0/robot_stderr.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Results/pabot_results/0/robot_stdout.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Results/pabot_results/1/output.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Results/pabot_results/1/robot_stderr.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Results/pabot_results/1/robot_stdout.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Results/report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Results/testcase-20220111-154652.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Results/testcase_log-20220111-154652.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Results/testcase_output-20220111-154652.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Results/testcase_report-20220111-154652.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testdata.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addresses.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csvfile.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/ExportTestSuite.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/MySQLClient.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/S3Client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/emailutil.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_scripts/csv_analyser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_scripts/csv_to_parquet_converter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_scripts/parquet_to_csv_converter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_scripts/xls_to_csv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Customer Calling.csv" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Robot Test Suite" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Tests" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="22tdR7Z2OCetUNs637kdNq086Bt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\udayk\PycharmProjects\RobotProject" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.MySQLClient">
+    <configuration name="MySQLClient" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="RobotProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/libs" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/libs/MySQLClient.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="csv_analyser" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="RobotProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_scripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_scripts/csv_analyser.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="emailutil" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="RobotProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/libs" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/libs/emailutil.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_csv_to_parquet_converter.test_csvparquet.test_convert_csv_to_parquet" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="RobotProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_scripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_csv_to_parquet_converter.test_csvparquet.test_convert_csv_to_parquet&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in test_csv_to_parquet_converter.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="RobotProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_scripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/python_scripts/test_csv_to_parquet_converter.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.MySQLClient" />
+        <item itemvalue="Python.emailutil" />
+        <item itemvalue="Python.csv_analyser" />
+        <item itemvalue="Python tests.Python tests for test_csv_to_parquet_converter.test_csvparquet.test_convert_csv_to_parquet" />
+        <item itemvalue="Python tests.Python tests in test_csv_to_parquet_converter.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="04941b12-4f81-4e31-8d2b-4926c9639ecf" name="Changes" comment="" />
+      <created>1640660806082</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1640660806082</updated>
+    </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1652508296940</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1652508296940</updated>
+    </task>
+    <task id="LOCAL-00002" summary="first commit">
+      <created>1652508742133</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1652508742133</updated>
+    </task>
+    <task id="LOCAL-00003" summary="first commit">
+      <created>1652509659717</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1652509659718</updated>
+    </task>
+    <task id="LOCAL-00004" summary="commit">
+      <created>1652509958682</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1652509958682</updated>
+    </task>
+    <task id="LOCAL-00005" summary="commit">
+      <created>1652510216469</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1652510216469</updated>
+    </task>
+    <task id="LOCAL-00006" summary="commit">
+      <created>1652510500701</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1652510500703</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python_scripts/parquet_to_csv_converter.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
