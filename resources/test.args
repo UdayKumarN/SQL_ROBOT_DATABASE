@@ -1,0 +1,9 @@
+--outputdir ./Results/
+--logtitle testsuite :: Sample MySQL Test suite :: Test log
+--reporttitle testcase :: Sample MySQL Test suite :: Test Report
+--output MySQLDB_output.xml
+--report MySQLDB_report.html
+--log MySQLDB_log.html
+--debugfile MySQL_log.log
+--consolewidth 130
+--timestampoutputs
