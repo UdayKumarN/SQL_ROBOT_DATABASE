@@ -1,3 +1,4 @@
+--exclude=columns check
 --outputdir ./Results/
 --logtitle testsuite :: Sample MySQL Test suite :: Test log
 --reporttitle testcase :: Sample MySQL Test suite :: Test Report
