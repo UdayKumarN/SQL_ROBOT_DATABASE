@@ -7,7 +7,7 @@ Library  Collections
 Library  DatabaseLibrary
 Library  OperatingSystem
 Library  pymysql
-Library  ../libs/emailutil.py
+#Library  ../libs/emailutil.py
 Library    DateTime
 Suite Setup  connect to database  pymysql   ${dbname}  ${dbuser}   ${dbpasswd}  ${dbhost}   ${dbport}
 #Suite Teardown   Disconnect from Database
