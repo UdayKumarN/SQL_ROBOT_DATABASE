@@ -14,10 +14,10 @@ Suite Setup  connect to database  pymysql   ${dbname}  ${dbuser}   ${dbpasswd}  
 Suite Teardown   tear down keywords
 *** Variables ***
 ${dbname}    customers
-${dbuser}    xxxx
-${dbpasswd}  xxxxxxxxx
-${dbhost}    xxxxxxxxx
-${dbport}    xxxx
+${dbuser}    root
+${dbpasswd}  Uday@1997
+${dbhost}    127.0.0.1
+${dbport}    3306
 @{queryResults}
 @{result}
 ${columnResults}=  [('cost',),  ('order_id',),  ('order_num',),  ('person_id',),  ('product',)]
