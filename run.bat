@@ -1,1 +1,1 @@
-robot -A .\resources\test.args -d  .\Results\ Tests\sql.robot
+robot -A .\resources\test.args -d  .\Results\ libs\sql.robot
