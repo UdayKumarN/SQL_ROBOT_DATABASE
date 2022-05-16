@@ -14,10 +14,10 @@ Suite Setup  connect to database  pymysql   ${dbname}  ${dbuser}   ${dbpasswd}  
 Suite Teardown   tear down keywords
 *** Variables ***
 ${dbname}    customers
-${dbuser}    root
-${dbpasswd}  Uday@1997
-${dbhost}    127.0.0.1
-${dbport}    3306
+${dbuser}    xxxx
+${dbpasswd}  xxxxxxxxx
+${dbhost}    xxxxxxxxx
+${dbport}    xxxx
 @{queryResults}
 @{result}
 ${columnResults}=  [('cost',),  ('order_id',),  ('order_num',),  ('person_id',),  ('product',)]
@@ -26,7 +26,7 @@ ${TEST_RUN_DATE_YYYYMMDD}
 ${year} =  ${JOB_RUN_DATE_YYYYMMDD}[:4]
 ${month} =  ${JOB_RUN_DATE_YYYYMMDD}[4:6]
 ${day} =  ${JOB_RUN_DATE_YYYYMMDD}[6:]
-${ENV} =  SIT
+${ENV} =  TEST
 
 *** Test Cases ***
 TC_01
