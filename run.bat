@@ -1,1 +1,1 @@
-robot -A .\resources\test.args -d  .\Results\ libs\sql.robot
+robot -A .\resources\test.args -v JOB_RUN_DATE_YYYYMMDD:20220516 -d  .\Results\ libs\sql.robot
